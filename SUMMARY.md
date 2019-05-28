@@ -4,6 +4,7 @@
 * [Research](research-1/README.md)
   * [Asking Questions](research-1/asking-questions.md)
 * [Entertainment](entertainment/README.md)
+  * [Graphic Novels](entertainment/graphic-novels.md)
   * [Video Games](entertainment/video-games.md)
   * [Albums](entertainment/albums.md)
   * [Movies](entertainment/movies.md)
