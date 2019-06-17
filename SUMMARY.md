@@ -29,4 +29,8 @@
   * [Techniques](cooking/techniques.md)
 * [Wikipedia](wikipedia.md)
 * [Mechanical Keyboards](mechanical-keyboards.md)
+* [Computer Science](computer-science/README.md)
+  * [Untitled](computer-science/untitled.md)
+* [Software Engineering](software-engineering/README.md)
+  * [JavaScript](software-engineering/javascript.md)
 
