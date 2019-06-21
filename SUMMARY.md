@@ -5,6 +5,7 @@
   * [Learning to Learn](learning/learning-to-learn.md)
   * [How Do We Learn?](learning/how-do-we-learn.md)
   * [The Feynman Technique](learning/the-feynman-technique.md)
+  * [Five Ways To Maximize Your Cognitive Potential](learning/five-ways-to-maximize-your-cognitive-potential.md)
 * [Research](research-1/README.md)
   * [Asking Questions](research-1/asking-questions.md)
 * [Communication](communication/README.md)
