@@ -8,9 +8,9 @@ I use the SBAR technique when I need to hand-off my work to a team member or whe
 
 ### Example
 
-* Scenario: Some user images are missing
-* Background: The user uploaded certain images and are not displaying properly to them
-* Assessment: The images that were missing are of heic format, jpgs and gifs display properly. The UI code does not hard-code file formats.
+* **Scenario**: Some user images are missing
+* **Background**: The user uploaded certain images and are not displaying properly to them
+* **Assessment**: The images that were missing are of heic format, jpgs and gifs display properly. The UI code does not hard-code file formats.
 * **Recommendation**: The proper solution is to convert images on the server to a supported format. The fastest solution is to add a UI check for supported image formats.
 
 ### More info
