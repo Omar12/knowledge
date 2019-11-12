@@ -6,6 +6,7 @@
   * [How Do We Learn?](learning/how-do-we-learn.md)
   * [The Feynman Technique](learning/the-feynman-technique.md)
   * [Five Ways To Maximize Your Cognitive Potential](learning/five-ways-to-maximize-your-cognitive-potential.md)
+* [Software Engineering](software-engineering.md)
 * [Research](research-1/README.md)
   * [Asking Questions](research-1/asking-questions.md)
 * [Communication](communication/README.md)
@@ -28,5 +29,7 @@
   * [Recipes](cooking/recipes.md)
   * [Essential Equipment](cooking/equipment.md)
   * [Techniques](cooking/techniques.md)
-* [Wikipedia](wikipedia.md)
+* [Wikipedia](wikipedia/README.md)
+  * [The Magical Number Seven, Plus or Minus Two](wikipedia/the-magical-number-seven-plus-or-minus-two.md)
+  * [Cognitive Dissonance](wikipedia/cognitive-dissonance.md)
 
